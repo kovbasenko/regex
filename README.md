@@ -23,4 +23,3 @@ Quantifiers:
 ?       - 0 or One
 {3}     - Exact Number
 {3,4}   - Range of Numbers (Minimum, Maximum)
-sd
