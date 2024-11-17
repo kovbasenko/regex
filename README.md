@@ -23,9 +23,3 @@ Quantifiers:
 ?       - 0 or One
 {3}     - Exact Number
 {3,4}   - Range of Numbers (Minimum, Maximum)
-
-aaaa
-a
-#### Sample Regexs ####
-
-[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+
